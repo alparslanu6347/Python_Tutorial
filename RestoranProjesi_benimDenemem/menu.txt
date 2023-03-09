@@ -1,0 +1,12 @@
+Doner 150
+Kebap 200
+Lahmacun 50
+Patlican 125
+Manti 100
+Cay 20
+Kahve 40
+Dolma 100
+Tavuk 140
+Kizartma 95
+Kofte 160
+Kisir 70

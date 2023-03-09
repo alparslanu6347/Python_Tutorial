@@ -1,0 +1,35 @@
+Aydın/Tokuşlu/Migren
+Elif/Tokuşlu/Diyabet
+Sare/Tokuşlu/Allerji
+Cemil/Topuz/Migren
+Hüseyin/Kaya/Genel Cerrahi
+Cem/Kıllı/Migren
+Enis/Tokuşlu/Allerji
+Hüt/Kuş/Migren
+Can/Kuş/Migren
+Yusuf/Gunduz/Sogukalginligi
+Hamdi/Pala/Kalp Hastaliklari
+Cem/Kaygılı/Cocuk Hastaliklari
+Galip/Öztürk/Migren
+Hilal/Eser/Genel Cerrahi
+Nuray/Eser/Diyabet
+Hilal/Sonmez/Migren
+Aslı/Bircan/Kalp Hastaliklari
+Cemil/Sonsay/Migren
+Ceml/Songun/Migren
+Nilgün/Korkmaz/Migren
+Hasan/Kaya/Migren
+Can/Yılmaz/Migren
+Sare/Tokuşlu/Allerji
+Bülent/Ceylan/Migren
+Neslihan/Gürpınar/Migren
+Sermin/Kaya/Migren
+Sermin/Kaya/Migren
+Hakan/Geleç/Migren
+Hakan/Geleç/Migren
+Hüseyin/Işık/Genel Cerrahi
+Hüseyin/Yolaçan/Migren
+Cemil/Solmaz/Migren
+Fatma/Ay/Cuma
+Sany/James/Migren
+Tony/Robins/Diyabet
